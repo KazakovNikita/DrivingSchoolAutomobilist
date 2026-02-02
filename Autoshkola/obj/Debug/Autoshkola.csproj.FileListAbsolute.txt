@@ -1,0 +1,145 @@
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\bin\Debug\Autoshkola.exe.config
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\Autoshkola.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\Autoshkola_MarkupCompile.cache
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\Autoshkola_MarkupCompile.lref
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\AutorizationPage.g.cs
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\bin\Debug\Autoshkola.exe
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\bin\Debug\Autoshkola.pdb
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\App.baml
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\AutorizationPage.baml
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\Autoshkola.g.resources
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\Autoshkola.Properties.Resources.resources
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\Autoshkola.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\Autoshkola.exe
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\Autoshkola.pdb
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\AdminPage.g.cs
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\ManagerPage.g.cs
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\Autoshkola_Content.g.cs
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\AdminPage.baml
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\ManagerPage.baml
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\AddUsersPage.g.cs
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\AddUsersPage.baml
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\AddClientPage.g.cs
+C:\Users\admin\Desktop\Autoshkola\Autoshkola\Autoshkola\obj\Debug\AddClientPage.baml
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\bin\Debug\Autoshkola.exe.config
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\bin\Debug\Autoshkola.exe
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\bin\Debug\Autoshkola.pdb
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\bin\Debug\EntityFramework.dll
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\bin\Debug\EntityFramework.xml
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\AddClientPage.g.cs
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\AddUsersPage.g.cs
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\AdminPage.g.cs
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\AutorizationPage.g.cs
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\MainWindow.g.cs
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\ManagerPage.g.cs
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\App.g.cs
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\Autoshkola_Content.g.cs
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\Autoshkola_MarkupCompile.cache
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\Autoshkola_MarkupCompile.lref
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\App.baml
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\AddClientPage.baml
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\AddUsersPage.baml
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\AdminPage.baml
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\AutorizationPage.baml
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\MainWindow.baml
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\ManagerPage.baml
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\Autoshkola.g.resources
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\Autoshkola.Properties.Resources.resources
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\Autoshkola.csproj.GenerateResource.cache
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\Autoshkola.csproj.CoreCompileInputs.cache
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\Autoshkola.csproj.CopyComplete
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\Autoshkola.exe
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\Autoshkola.pdb
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\Autoshkola.csprojAssemblyReference.cache
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\PrintPage.g.cs
+C:\Users\642_07\Desktop\kazakov\Autoshkola\Autoshkola\obj\Debug\PrintPage.baml
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\bin\Debug\Autoshkola.exe.config
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\bin\Debug\Autoshkola.exe
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\bin\Debug\Autoshkola.pdb
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\bin\Debug\EntityFramework.dll
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\bin\Debug\EntityFramework.SqlServer.dll
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\bin\Debug\EntityFramework.xml
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\bin\Debug\EntityFramework.SqlServer.xml
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\bin\Debug\ru\EntityFramework.resources.dll
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\Autoshkola.csprojAssemblyReference.cache
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\AddClientPage.g.cs
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\AddUsersPage.g.cs
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\AdminPage.g.cs
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\AutorizationPage.g.cs
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\MainWindow.g.cs
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\ManagerPage.g.cs
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\PrintPage.g.cs
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\App.g.cs
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\Autoshkola_Content.g.cs
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\Autoshkola_MarkupCompile.cache
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\Autoshkola_MarkupCompile.lref
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\App.baml
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\AddClientPage.baml
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\AddUsersPage.baml
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\AdminPage.baml
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\AutorizationPage.baml
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\MainWindow.baml
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\ManagerPage.baml
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\PrintPage.baml
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\Autoshkola.g.resources
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\Autoshkola.Properties.Resources.resources
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\Autoshkola.csproj.GenerateResource.cache
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\Autoshkola.csproj.CoreCompileInputs.cache
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\Autoshkola.csproj.CopyComplete
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\Autoshkola.exe
+D:\642_Kazakov\курсовой\Казаков_10.06.2021\Программный код и скрипт\Autoshkola\Autoshkola\obj\Debug\Autoshkola.pdb
+C:\Users\admin\Desktop\Казаков Никита\Исходный код\Autoshkola\Autoshkola\bin\Debug\Autoshkola.exe.config
+C:\Users\admin\Desktop\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\Autoshkola.exe
+C:\Users\admin\Desktop\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\Autoshkola.pdb
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\bin\Debug\Autoshkola.exe.config
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\Autoshkola.exe
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\Autoshkola.pdb
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\bin\Debug\Autoshkola.exe
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\bin\Debug\Autoshkola.pdb
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\bin\Debug\EntityFramework.dll
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\bin\Debug\EntityFramework.SqlServer.dll
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\bin\Debug\EntityFramework.xml
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\bin\Debug\EntityFramework.SqlServer.xml
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\bin\Debug\ru\EntityFramework.resources.dll
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\Autoshkola.csprojResolveAssemblyReference.cache
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\AddClientPage.g.cs
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\AddUsersPage.g.cs
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\AdminPage.g.cs
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\AutorizationPage.g.cs
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\BaseWindow.g.cs
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\ManagerPage.g.cs
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\PrintPage.g.cs
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\App.g.cs
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\Autoshkola_Content.g.cs
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\Autoshkola_MarkupCompile.cache
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\Autoshkola_MarkupCompile.lref
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\App.baml
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\AddClientPage.baml
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\AddUsersPage.baml
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\AdminPage.baml
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\AutorizationPage.baml
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\BaseWindow.baml
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\ManagerPage.baml
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\PrintPage.baml
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\Autoshkola.g.resources
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\Autoshkola.Properties.Resources.resources
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\Autoshkola.csproj.GenerateResource.Cache
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\InstructorPage.g.cs
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\TeacherPage.g.cs
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\InstructorPage.baml
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\TeacherPage.baml
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\PlanOfTheEducation.g.cs
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\PlanOfTheEducation.baml
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\HistoryPrintPage.g.cs
+D:\Скрины новайс\ПЕРЕНОС\Казаков Никита\Исходный код\Autoshkola\Autoshkola\obj\Debug\HistoryPrintPage.baml

@@ -1,0 +1,36 @@
+﻿<Window x:Class="Autoshkola.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Autoshkola"
+        mc:Ignorable="d"
+        Title="Автомобилист" Height="450" Width="1025" Icon="Resources/logo.jpg" MinHeight="450" MinWidth="800" MaxWidth="1980" Focusable="False">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="170"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.RowSpan="3" Grid.Column="0" Background="Aqua"></Grid>
+        
+        
+        <Image Source="/Resources/logo.jpg" HorizontalAlignment="Left" Width="170" ></Image>
+        
+        
+        <TextBlock x:Name="tbHeading" Grid.Column="1" Text="Автошкола Автомобилист" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+        <Grid Background="Orange" Panel.ZIndex="-2"></Grid>
+        <Grid Grid.Row="2" Grid.ColumnSpan="2" Background="SteelBlue"></Grid>
+        <Frame Grid.Row="1" Grid.Column="1" Name="baseFrame" NavigationUIVisibility="Hidden" ContentRendered="baseFrame_ContentRendered" ></Frame>
+        
+        
+        <Button Grid.Row="1"  Content="Назад" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0 0 0 80" Name="btnBack" Click="btnBack_Click" ></Button>
+        <Button Grid.Row="1"  Content="Выйти из уч. записи" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0 0 0 45"  Name="btnExitAccount" Click="btnExitAccount_Click"></Button>
+        <Button Grid.Row="1"  Content="Выход" HorizontalAlignment="Center" VerticalAlignment="Bottom" Name="btnExit" Click="btnExit_Click"></Button>
+        
+    </Grid>
+</Window>

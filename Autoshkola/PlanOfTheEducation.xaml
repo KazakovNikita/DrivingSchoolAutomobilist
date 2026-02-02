@@ -1,0 +1,62 @@
+﻿<Page x:Class="Autoshkola.PlanOfTheEducation"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Autoshkola"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="1000"
+      Title="PlanOfTheEducation">
+
+    <Grid>
+        <ListView HorizontalAlignment="Center">
+            <StackPanel Orientation="Vertical">
+            <TextBlock Text="Категория А" FontSize="30"></TextBlock>
+            <TextBlock Text=""></TextBlock>
+            
+            <TextBlock Text="Основы законодательства в сфере дорожного движения (43ч)"></TextBlock>
+            <TextBlock Text="Психофизические основы деятельности водителя (12ч)"></TextBlock>
+            <TextBlock Text="Основы управления транспортными средствами (15ч)"></TextBlock>
+            <TextBlock Text="Первая помощь при дорожно транспортном проишествии (16ч)"></TextBlock>
+                <TextBlock Text="Техническое обслуживание транспортных средств категории А (12ч)"></TextBlock>
+                <TextBlock Text="Основы управления транспортными средствами категории А (12ч)"></TextBlock>
+                <TextBlock Text="Вождение транспортных средств категории А (18ч)"></TextBlock>
+            <TextBlock Text="Квалификационный экзамен (4ч)"></TextBlock>
+            <TextBlock Text=""></TextBlock>
+            <TextBlock Text=""></TextBlock>
+            <TextBlock Text="Категория B" FontSize="30"></TextBlock>
+            <TextBlock Text=""></TextBlock>
+
+            <TextBlock Text="Основы законодательства в сфере дорожного движения (43ч)"></TextBlock>
+            <TextBlock Text="Психофизические основы деятельности водителя (12ч)"></TextBlock>
+            <TextBlock Text="Основы управления транспортными средствами (15ч)"></TextBlock>
+            <TextBlock Text="Первая помощь при дорожно транспортном проишествии (16ч)"></TextBlock>
+            <TextBlock Text="Техническое обслуживание транспортных средств категории B (12ч)"></TextBlock>
+                <TextBlock Text="Основы управления транспортными средствами категории B (12ч)"></TextBlock>
+                <TextBlock Text="Вождение транспортных средств категории B (18ч)"></TextBlock>
+            <TextBlock Text="Квалификационный экзамен (4ч)"></TextBlock>
+                <TextBlock Text=""></TextBlock>
+                <TextBlock Text=""></TextBlock>
+                <TextBlock Text="Категория С" FontSize="30"></TextBlock>
+                <TextBlock Text=""></TextBlock>
+
+            
+                <TextBlock Text="Техническое обслуживание транспортных средств категории C (24ч)"></TextBlock>
+                <TextBlock Text="Основы управления транспортными средствами категории C (13ч)"></TextBlock>
+                <TextBlock Text="Вождение транспортных средств категории C (38ч)"></TextBlock>
+                <TextBlock Text="Квалификационный экзамен (4ч)"></TextBlock>
+                <TextBlock Text=""></TextBlock>
+                <TextBlock Text=""></TextBlock>
+                <TextBlock Text="Категория D" FontSize="30"></TextBlock>
+                <TextBlock Text=""></TextBlock>
+
+                <TextBlock Text="Техническое обслуживание транспортных средств категории D (44ч)"></TextBlock>
+                <TextBlock Text="Основы управления транспортными средствами категории D (13ч)"></TextBlock>
+                <TextBlock Text="Вождение транспортных средств категории D (40ч)"></TextBlock>
+                <TextBlock Text="Квалификационный экзамен (4ч)"></TextBlock>
+
+            </StackPanel>
+        </ListView>
+    </Grid>
+    
+</Page>
